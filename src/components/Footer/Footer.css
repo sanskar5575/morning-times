@@ -1,0 +1,44 @@
+.footer{
+    background-color: rgb(69, 66, 66);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.footericon{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+.contactme{
+    font-size: 21px;
+    font-weight: 500;
+    color: azure;
+}
+
+.footerb{
+    color: black;
+    font-size: 16px;
+    padding-right: 15px;
+}
+
+.name{
+    font-size: 22px;
+    padding: 20px 30px 15px;
+    color: white;
+}
+
+a{
+    color: white;
+
+}
+
+.iconsContainer{
+    width: 62%;
+    height: 50px;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
