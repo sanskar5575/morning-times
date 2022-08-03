@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Screenshot (89)](https://user-images.githubusercontent.com/95049127/182691849-9f29e973-7f48-4b71-9439-9bcb48cf961f.png)
-![Screenshot (90)](https://user-images.githubusercontent.com/95049127/182691773-ccffd525-d640-4654-aed1-fec90895241a.png)
-![Screenshot (91)](https://user-images.githubusercontent.com/95049127/182691808-c1708d14-20a3-4cff-ad10-f32b4b4d2d23.png)
+
+
 
 
 
@@ -12,6 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+![Screenshot (90)](https://user-images.githubusercontent.com/95049127/182691773-ccffd525-d640-4654-aed1-fec90895241a.png)
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -32,6 +33,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+![Screenshot (91)](https://user-images.githubusercontent.com/95049127/182691808-c1708d14-20a3-4cff-ad10-f32b4b4d2d23.png)
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
  
@@ -75,5 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![Screenshot (89)](https://user-images.githubusercontent.com/95049127/182691368-396c3dce-0971-4082-b734-78d459ff15b4.png)
+
 
